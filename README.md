@@ -7,23 +7,23 @@
 
     Weather_Database code  contains creation of a weather database using randomly generated lat-long pairs and the OpenWeatherMap API. Weather attributes like Latitude, Longtitude, Maximum temperature, Percent humidity, Percent cloudiness, Wind Speed and Weather description are retrieved from the API call
    
-    ![City_data](Weather_Database/City_data.PNG)
+    ![City_data](Weather_Database/City_data.png)
 
   ## Deliverable 2
 
     Weather database generates a new randomized set of lat-long pairs, matches them to cities, retrieves weather data, and stores all in a dataframe and then exported to CSV. Then a map was used to display hotel locations that match the input criteria. Google maps API was then used to locate hotels in the cities that were filteres with pop up markers that show hotel name, location, weather description and maximum temperature in Fahrenheit.
 
-    ![WeatherPy_vacation_map](Vacation_Search/WeatherPy_vacation_map.PNG)
+    ![WeatherPy_vacation_map](Vacation_Search/WeatherPy_vacation_map.pg)
     
 
   ## Deliverable 3
     Last of the project was to build an itenary that shows the route between 4 cities that were chosen. Add on of marker layer was done and then pop up markers showed additional hotel details
 
  
-    ![WeatherPy_travel_map](Vacation_Itinerary/WeatherPy_travel_map.PNG)    
+    ![WeatherPy_travel_map](Vacation_Itinerary/WeatherPy_travel_map.png)    
      
-    ![WeatherPy_travel_map_markers_no_popup](Vacation_Itinerary/WeatherPy_travel_map_markers_no_popup.PNG)
+    ![WeatherPy_travel_map_markers_no_popup](Vacation_Itinerary/WeatherPy_travel_map_markers_no_popup.png)
 
-    ![WeatherPy_travel_map_markers](Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
+    ![WeatherPy_travel_map_markers](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
     
