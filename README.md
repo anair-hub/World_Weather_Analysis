@@ -1,5 +1,5 @@
 # World_Weather_Analysis
-  This module covers requirement of adding weather data details to the PlanTrip app. Additionaly there are use case scenarios to filter the data for weather preferences, which will then be used to identify potential travel destinations and nearby hotels. This module concludes with choosing four cities to create a travel itineray and then ending with usage of Google Maps Directions API between four cities along with a marker layer map.
+  This module covers requirement of adding weather data details to the PlanTrip app. Additionaly there are use case scenarios to filter the data for weather preferences, which will then be used to identify potential travel destinations and nearby hotels. This module concludes with choosing four cities to create a travel itineray and usage of Google Maps Directions API between four cities along with a marker layer map.
 
 
   ## Deliverable 1
