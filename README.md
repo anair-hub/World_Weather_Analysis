@@ -7,7 +7,7 @@
 
     Weather_Database code  contains creation of a weather database using randomly generated lat-long pairs and the OpenWeatherMap API. Weather attributes like Latitude, Longtitude, Maximum temperature, Percent humidity, Percent cloudiness, Wind Speed and Weather description are retrieved from the API call
    
-    ![City_data](Weather_Database/City_data.png)
+    ![City_data](Weather_Database/City_data.PNG)
 
   ## Deliverable 2
 
